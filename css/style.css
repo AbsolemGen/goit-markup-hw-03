@@ -218,7 +218,6 @@ ol {
 
 /*------------------- footer----------------- */
 .footer-box {
-  margin-top: 120px;
 }
 .footer-link {
   padding-top: 10px;
@@ -269,6 +268,7 @@ ol {
 }
 
 .team-box {
+  padding-bottom: 120px;
 }
 
 .team-title {
