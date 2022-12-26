@@ -146,7 +146,7 @@ img {
 .btn:focus {
   background-color: #4d5ae5;
   color: #ffffff;
-  border: #404bbf;
+  border: 1px solid transparent;
 }
 .btn-list {
   justify-content: center;
@@ -313,7 +313,7 @@ img {
 }
 
 .team-item-title {
-  padding-bottom: 8px;
+  padding-bottom: 50px;
 }
 .team-item-box {
   background-color: #ffffff;
