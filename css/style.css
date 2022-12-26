@@ -268,10 +268,12 @@ img {
 .options-item {
 }
 .options-text {
-  max-width: 270px;
 }
 .options-list {
   gap: 24px;
+}
+.options-title {
+  padding-bottom: 8px;
 }
 .what-doing-tittle {
   padding-bottom: 72px;
