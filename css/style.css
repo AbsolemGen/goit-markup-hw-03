@@ -151,6 +151,7 @@ img {
 .btn-list {
   justify-content: center;
   gap: 24px;
+  padding-bottom: 72px;
 }
 .main-item-header {
   padding-bottom: 8px;
@@ -195,11 +196,11 @@ img {
 }
 
 .main-list {
+  row-gap: 48px;
   flex-wrap: wrap;
   justify-content: space-between;
 }
 .main-item {
-  margin-top: 48px;
 }
 .main {
   padding-bottom: 120px;
@@ -296,7 +297,6 @@ img {
 }
 
 .team-title {
-  padding-top: 120px;
   padding-bottom: 72px;
   text-align: center;
 }
